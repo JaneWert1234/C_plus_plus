@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-#include "sqrt.hpp"
 #include "roots.hpp"
 
 int main()
